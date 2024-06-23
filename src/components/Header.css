@@ -1,0 +1,30 @@
+.Header {
+  text-align: center;
+  background-color: #fff;
+  padding: 20px;
+  border-bottom: 1px solid #ddd;
+}
+.Header h1 {
+  margin: 0;
+  font-size: 24px;
+  color: #333;
+}
+.Header p {
+  margin: 5px 0;
+  color: #777;
+}
+.Header button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+.Header div {
+  margin-top: 20px;
+}
+.Header div span {
+  display: inline-block;
+  margin-right: 15px;
+  color: #333;
+}

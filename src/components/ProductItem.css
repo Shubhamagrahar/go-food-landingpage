@@ -1,0 +1,27 @@
+.ProductItem {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  width: 45vw;
+  height: 2vh;
+}
+.ProductItem h3 {
+  color: #333;
+}
+.ProductItem p {
+  color: #777;
+}
+.ProductItem button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+.Item-box{
+  display: flex;
+  gap: 30px;
+}
